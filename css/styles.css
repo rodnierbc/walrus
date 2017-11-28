@@ -1,0 +1,31 @@
+img {
+  width:  500px;
+  height: auto;
+}
+
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable-gallery {
+  cursor: pointer;
+  color: red;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.clickable-gallery:hover {
+  text-decoration: underline;
+}
+
+#gallery-hide {
+  display: none;
+}
+#walrus-pictures {
+  display: none;
+}
